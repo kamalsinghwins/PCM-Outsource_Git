@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<MainRoot>
+  <Accounts>
+    <AccountNumber>123</AccountNumber>
+    <AccountName>DANIEL</AccountName>
+    <CurrentDate>29/04/2013</CurrentDate>
+    <TotalBalance>1000</TotalBalance>
+    <Current>150</Current>
+    <Overdue>50</Overdue>
+    <TotalDue>200</TotalDue>
+    <OpeningBalance>500</OpeningBalance>
+    <ClosingBalance>1000</ClosingBalance>
+    <CreditLimit>1000</CreditLimit>
+  </Accounts>
+
+  <Transactions ID="123456">
+    <TransactionDate>2013-04-01</TransactionDate>
+    <TransactionDescription>SALE AT RAGE BRANCH: HHH</TransactionDescription>
+    <TransactionAmount>200</TransactionAmount>
+
+  </Transactions>
+  <Transactions ID="1235">
+    <TransactionDate>2013-04-01</TransactionDate>
+    <TransactionDescription>SALE AT RAGE BRANCH: DDD</TransactionDescription>
+    <TransactionAmount>2000</TransactionAmount>
+
+  </Transactions>
+
+</MainRoot>
+

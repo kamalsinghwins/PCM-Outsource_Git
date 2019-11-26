@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<MainRoot>
+<Accounts>
+<AccountNumber>100000068</AccountNumber>
+<AccountName>MRS SARAH GOCHIN</AccountName>
+<CurrentDate>04/04/2016</CurrentDate>
+<Current>0.00</Current>
+<Overdue>0.00</Overdue>
+<TotalDue>0.00</TotalDue>
+<OpeningBalance>0.00</OpeningBalance>
+<ClosingBalance>0.00</ClosingBalance>
+<CreditLimit>800.00</CreditLimit>
+</Accounts>
+</MainRoot>

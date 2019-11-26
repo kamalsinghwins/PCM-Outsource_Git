@@ -1,0 +1,43 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Calendar.aspx.cs" Inherits="DITS.EmployeePortal.Calendar" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script>
+        var API = "RequestAPI.aspx";
+        var _month = 5;
+        function getHolidays() {
+            var functionName = API + "?Action=GetHolidaysList&Month=" + _month;
+            $("#divHolidays").empty();
+            $.getJSON(functionName, function (data,reponse) {
+                debugger;
+                var holidaysList = data.Table;
+                $.each(holidaysList, function () {
+                    $("#divHolidays").append(this.Holiday + ":" + this.HolidayDate + "<BR>");
+                });
+            });
+        }
+        function prev() {
+            if (_month > 0) _month--;
+            getHolidays();
+        }
+        function next() {
+            if (_month < 12) _month++;
+            getHolidays();
+        }
+    </script>
+    <title></title>
+</head>
+<body onload="getHolidays()">
+    <form id="form1" runat="server">
+        
+            <input type="button" value="P" onclick="prev()" />
+            <input type="button" value="N" onclick="next()" />
+        <div id="divHolidays">
+
+        </div>
+    </form>
+</body>
+</html>

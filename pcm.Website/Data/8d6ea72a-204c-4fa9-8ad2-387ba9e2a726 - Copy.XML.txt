@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<MainRoot>
+<Accounts>
+<AccountNumber>100149908</AccountNumber>
+<AccountName>MS MELISA NGQANDU</AccountName>
+<CurrentDate>08/05/2013</CurrentDate>
+<Current>0.00</Current>
+<Overdue>0.00</Overdue>
+<TotalDue>0.00</TotalDue>
+<OpeningBalance>178.00</OpeningBalance>
+<ClosingBalance>821.00</ClosingBalance>
+<CreditLimit>1200.00</CreditLimit>
+</Accounts>
+<Transactions ID="PI12101243">
+<TransactionDate>20/04/2013</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-160.00</TransactionAmount>
+</Transactions>
+<Transactions ID="PI12101245">
+<TransactionDate>20/04/2013</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-20.00</TransactionAmount>
+</Transactions>
+<Transactions ID="PI12101023">
+<TransactionDate>20/04/2013</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: PI1</TransactionDescription>
+<TransactionAmount>714.00</TransactionAmount>
+</Transactions>
+<Transactions ID="GA11108073">
+<TransactionDate>26/04/2013</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: GA1</TransactionDescription>
+<TransactionAmount>109.00</TransactionAmount>
+</Transactions>
+</MainRoot>

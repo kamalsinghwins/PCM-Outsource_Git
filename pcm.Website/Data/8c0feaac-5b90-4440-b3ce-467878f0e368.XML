@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<MainRoot>
+<Accounts>
+<AccountNumber>100000068</AccountNumber>
+<AccountName>MRS S GOCHIN</AccountName>
+<CurrentDate>26-09-2018</CurrentDate>
+<Current>0.00</Current>
+<Overdue>0.00</Overdue>
+<TotalDue>0.00</TotalDue>
+<OpeningBalance>0.00</OpeningBalance>
+<ClosingBalance>0.00</ClosingBalance>
+<CreditLimit>10.00</CreditLimit>
+<AddressLine1>GLENHAZEL</AddressLine1>
+<AddressLine2>58 SUNNY ROAD </AddressLine2>
+<AddressLine3></AddressLine3>
+<AddressPostCode>2192</AddressPostCode>
+</Accounts>
+<Transactions ID="HO-1061962">
+<TransactionDate>2018-06-19</TransactionDate>
+<TransactionDescription>RAGE LEDGER CREDIT - BALANCE AFFECT</TransactionDescription>
+<TransactionAmount>-10.00</TransactionAmount>
+</Transactions>
+<Transactions ID="ZZ11038377-CC">
+<TransactionDate>2018-06-19</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-5.00</TransactionAmount>
+</Transactions>
+<Transactions ID="HHH1038547">
+<TransactionDate>2018-06-01</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>4.35</TransactionAmount>
+</Transactions>
+<Transactions ID="HHH1038554">
+<TransactionDate>2018-06-01</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-4.35</TransactionAmount>
+</Transactions>
+<Transactions ID="HHH1038576">
+<TransactionDate>2018-06-20</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-4.35</TransactionAmount>
+</Transactions>
+<Transactions ID="HHH1038598">
+<TransactionDate>2018-06-20</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-1.00</TransactionAmount>
+</Transactions>
+<Transactions ID="HHH1038660">
+<TransactionDate>2018-06-20</TransactionDate>
+<TransactionDescription>PAYMENT - THANK YOU</TransactionDescription>
+<TransactionAmount>-2.00</TransactionAmount>
+</Transactions>
+<Transactions ID="ZZ11111377407">
+<TransactionDate>2018-08-08</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: ZZ1</TransactionDescription>
+<TransactionAmount>0.09</TransactionAmount>
+</Transactions>
+<Transactions ID="ZZ11111380992">
+<TransactionDate>2018-08-13</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: ZZ1</TransactionDescription>
+<TransactionAmount>0.09</TransactionAmount>
+</Transactions>
+<Transactions ID="AH11131686826">
+<TransactionDate>2018-08-13</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: AH1</TransactionDescription>
+<TransactionAmount>0.10</TransactionAmount>
+</Transactions>
+<Transactions ID="HS11123420837">
+<TransactionDate>2018-08-15</TransactionDate>
+<TransactionDescription>PURCHASE AT RAGE BRANCH: HS1</TransactionDescription>
+<TransactionAmount>0.10</TransactionAmount>
+</Transactions>
+</MainRoot>
